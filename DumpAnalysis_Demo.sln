@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumpAnalysis_Demo", "DumpAnalysis_Demo\DumpAnalysis_Demo.csproj", "{2DF231EE-57B9-4499-A7C9-34C246BB563D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF231EE-57B9-4499-A7C9-34C246BB563D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF231EE-57B9-4499-A7C9-34C246BB563D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF231EE-57B9-4499-A7C9-34C246BB563D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF231EE-57B9-4499-A7C9-34C246BB563D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E2385B-2417-4F80-B013-0FA85DBDABA5}
+	EndGlobalSection
+EndGlobal
